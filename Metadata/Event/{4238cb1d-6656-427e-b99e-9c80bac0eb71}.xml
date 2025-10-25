@@ -99,6 +99,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{ebf849f4-015d-47d6-822f-28e7160af58d}" />
 	<object class="SingleSound" id="{3b0a436a-dba3-4216-86ca-b69f70a2079d}">
+		<property name="isAsync">
+			<value>true</value>
+		</property>
 		<property name="length">
 			<value>0.6275736961451247</value>
 		</property>
